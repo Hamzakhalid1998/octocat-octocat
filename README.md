@@ -20,12 +20,12 @@
 
 ## ✨ About Me
 
-I'm a passionate Frontend Developer dedicated to crafting exceptional user experiences and building performant, accessible web applications. With a keen eye for detail and a love for elegant code, I transform complex design concepts into intuitive and responsive digital realities.
+Frontend Developer passionate about solving user problems through intuitive and performant web interfaces. I excel at translating intricate designs into accessible, responsive, and scalable applications, with a strong focus on clean code and an exceptional user journey.
 
--   💻 **Currently focused on:** Mastering [e.g., advanced React patterns, State Management with Zustand/Jotai, WebGL, UI Animations].
--   🌱 **Always learning:** Exploring [e.g., Micro-frontends, Web Assembly, Serverless functions for frontend].
--   🚀 **Passionate about:** Performance optimization, delightful UX/UI, and creating scalable component libraries.
--   💬 **Ask me about:** Frontend architecture, modern JavaScript, or anything related to user interfaces!
+-   **Expertise in:** [e.g., React ecosystem, modern CSS frameworks, cross-browser compatibility].
+-   **Constantly learning:** [e.g., Web accessibility standards, Jamstack principles, advanced testing methodologies].
+-   **Driving factors:** Optimizing load times, perfecting user flows, and fostering reusable component development.
+-   **Open to discussions on:** Scalable frontend development, UX-centric coding, and cutting-edge web technologies.
 
 ---
 
