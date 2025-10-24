@@ -1,6 +1,6 @@
 # octocat-octocat
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="100px" alt="Your Name" style="border-radius: 50%; border: 2px solid #007ACC;" />
+  <img src="https://github.com/Hamzakhalid1998/octocat-octocat/blob/main/hamza.png?raw=true" width="100px" alt="Your Name" style="border-radius: 50%; border: 2px solid #007ACC;" />
   <h1>Hi there, I'm Hamza Khalid 👋</h1>
 </div>
 
