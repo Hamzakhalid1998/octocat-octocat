@@ -1,7 +1,7 @@
 # octocat-octocat
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="100px" alt="Your Name" style="border-radius: 50%; border: 2px solid #007ACC;" />
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h1>Hi there, I'm Hamza Khalid 👋</h1>
 </div>
 
 <p align="center">
